@@ -1,0 +1,23 @@
+{
+  "comment": "WARNING: This is *NOT* a public endpoint. Do not depend on it in your app",
+  "iceServers": [
+    {
+      "urls": "stun:global.stun.twilio.com:3478?transport=udp"
+    },
+    {
+      "username": "8a8be44ca95d694fbc0bc6aa9565c3e2ad6c7c5aec6ed230ac999a5b6fa7befd",
+      "urls": "turn:global.turn.twilio.com:3478?transport=udp",
+      "credential": "9F7YRsHS6y3sX+7EXz+O7id304ZoLeeE5VqGdrfQo9Q="
+    },
+    {
+      "username": "8a8be44ca95d694fbc0bc6aa9565c3e2ad6c7c5aec6ed230ac999a5b6fa7befd",
+      "urls": "turn:global.turn.twilio.com:3478?transport=tcp",
+      "credential": "9F7YRsHS6y3sX+7EXz+O7id304ZoLeeE5VqGdrfQo9Q="
+    },
+    {
+      "username": "8a8be44ca95d694fbc0bc6aa9565c3e2ad6c7c5aec6ed230ac999a5b6fa7befd",
+      "urls": "turn:global.turn.twilio.com:443?transport=tcp",
+      "credential": "9F7YRsHS6y3sX+7EXz+O7id304ZoLeeE5VqGdrfQo9Q="
+    }
+  ]
+}
