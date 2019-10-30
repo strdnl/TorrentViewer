@@ -1,18 +1,14 @@
 <h1 align="center">
 
-  <a href="https://webtorrent.io"><img src="https://instant.io/logo.svg" alt="Instant.io" width="400"></a>
+  <a href="https://webtorrent.io"><img src="https://www.thoughtco.com/thmb/7_rJkBY2uh3ConQe4Ks9_QYlaNY=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/george_orwell-1943-56af81233df78cf772c542f1.jpg" alt="Instant.io" width="400"></a>
   <br>
 </h1>
 
-<h4 align="center">Streaming file transfer over WebTorrent (torrents on the web)</h4>
+<h4 align="center">Internet over WebTorrent (torrents on the web)</h4>
 
 <p align="center">
-  <a href="https://travis-ci.org/webtorrent/instant.io"><img src="https://img.shields.io/travis/webtorrent/instant.io/master.svg" alt="travis"></a>
-  <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="javascript style guide"></a>
-</p>
-
-Download/upload files using the [WebTorrent](http://webtorrent.io) protocol (BitTorrent
-over WebRTC). This is a beta.
+  
+  <a href="https://standardjs.com"><img 
 
 Powered by [WebTorrent](http://webtorrent.io), the first torrent client that works in the
 browser without plugins. WebTorrent is powered by JavaScript and WebRTC. Supports Chrome,
